@@ -1,4 +1,4 @@
-How to push the code?
+How to push the code via cmd?
 
 Open git from chrome and create a branch
 Clone the code to desktop 

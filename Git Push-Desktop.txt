@@ -1,0 +1,11 @@
+How to push the code via git desktop app?
+
+Open git from chrome and create a branch
+Clone the code to desktop 
+Make the changes in your file
+save it
+Open Desktop git app and review the changes.
+Now hit commit button on below
+Now hit push button 
+Now every changes will be saved to git branch
+Done
