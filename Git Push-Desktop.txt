@@ -8,4 +8,4 @@ Open Desktop git app and review the changes.
 Now hit commit button on below
 Now hit push button 
 Now every changes will be saved to git branch
-Done
+Done.
