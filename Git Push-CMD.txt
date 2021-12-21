@@ -1,0 +1,17 @@
+How to push the code?
+
+Open git from chrome and create a branch
+Clone the code to desktop 
+Make the changes in your file
+save it
+Now open git bash in the same location where u made the changes
+git branch    # make sure u dont use the main branch if it is main branch goto step 9
+git checkout *ur branch name*
+git branch    # make sure it points to branch u created. if not goto step 9
+git status    # This will display all the changes u made.
+git add *     # This will add all the changes u made to ur branch
+git status    # to check if changes are added to branch
+git commit -m "message u wish to add"
+git push origin *branch name*
+Now goto the git and give merge request to owner
+Done
